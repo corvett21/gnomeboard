@@ -16,3 +16,21 @@ There are .zip files of the Gerbers for the switchplate, the PCB, and a "bottom 
 <img width="1228" height="938" alt="1773541705_XMDD7U" src="https://github.com/user-attachments/assets/99f8d43f-16d5-4f16-90d3-ce6881dbdf3f" />
 
 <img width="1063" height="947" alt="1773541744_1SikWp" src="https://github.com/user-attachments/assets/50e7df21-28e5-4cf1-9251-15b54bd72192" />
+
+BOM:
+- 2 of the "gnomeboard" or "gnomeboard-wireless" PCB
+- Optional: 2 of the switchplate PCBs and 2 of the bottom plate PCBs
+- Optional: M2 screws and knuts to connect the PCB to the top/bottom plates
+- 32 Choc v1 switches
+- Custom 15mm spaced Choc v1 keycaps
+- Any keycaps you want for the thumb keys
+- 2x Nice!Nano v2 or compatible MCUs
+- 2 TRRS connectors (if wired), and a TRRS cable
+- 2 Reset Buttons 3x4x2mm SMD
+
+For Wireless
+- 2x Power button (ALPS SSSS811101 or compatible)
+- 2x JST connectors (optional) - 2 pin 2mm for the Batteries
+- 2x Batteries:
+-   301230 to fit under the MCU, or
+-   Larger batteries, like PS3 controller batteries, could fit under the PCB. The PCB Bottom Plate can be used as a bottom to a sandwich case if you'd like to use this option
